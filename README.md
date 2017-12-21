@@ -1,6 +1,11 @@
 Kryptologie Blatt #8
 Aufg. 40
 
+CMS-Namen:
+
+heydenjq
+gehrinlu
+
 Aufgabe: Programm, das Angriff auf SPN mittels linearer Kryptoanalyse ausführt.
 
 Wir wissen:
