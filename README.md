@@ -23,7 +23,7 @@ Daher können wir abschätzen, wie viele Plaintext/Kryptotextpaare benötigt wer
 
 T = ce^-2 = c * 256
 
-Das Programm befindet sich in linearAttack.py. Die dazugehörigen Plaintext/Krypp-
+Das Programm befindet sich in linearAttack.py. Die dazugehörigen Plaintext/Krypto-
 textpaare wurden mithilfe des mitgelieferten LUA SPNs generiert. Das SPN wurde
 von uns angepasst und ist unter spn/spn.lua zu finden. 
 
